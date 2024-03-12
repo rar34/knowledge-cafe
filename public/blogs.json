@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "../src/assets/images/1.jpg",
+      "title": "The Secret Garden",
+      "author": "Emily Davidson",
+      "author_img": "../src/assets/images/boy1.png",
+      "posted_date": "Mar 14 ( 4 days ago )",
+      "reading_time": 25,
+      "hashtags": ["#fantasy", "#gardening", "#magic"]
+    },
+    {
+      "id": 2,
+      "cover": "../src/assets/images/2.png",
+      "title": "Beyond the Stars",
+      "author": "James Anderson",
+      "author_img": "https://i.ibb.co/GCGM90V/Capture.jpg",
+      "posted_date": "Mar 14 ( 4 days ago )",
+      "reading_time": 30,
+      "hashtags": ["#sciencefiction", "#space", "#exploration"]
+    },
+    {
+      "id": 3,
+      "cover": "../src/assets/images/3.png",
+      "title": "The Lost Kingdom",
+      "author": "Samantha Roberts",
+      "author_img": "https://i.ibb.co/GCGM90V/Capture.jpg",
+      "posted_date": "Mar 14 ( 4 days ago )",
+      "reading_time": 40,
+      "hashtags": ["#adventure", "#history", "#mystery"]
+    },
+    {
+      "id": 4,
+      "cover": "../src/assets/images/4.jpg",
+      "title": "Echoes of the Past",
+      "author": "Michael Thompson",
+      "author_img": "https://i.ibb.co/GCGM90V/Capture.jpg",
+      "posted_date": "Mar 14 ( 4 days ago )",
+      "reading_time": 20,
+      "hashtags": ["#thriller", "#suspense", "#detective"]
+    }
+  ]
+  
